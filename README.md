@@ -21,16 +21,15 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 - See hover states for all interactive elements on the page
 - Receive an error message when the `form` is submitted if:
-  - The `input` field is empty
-  - The email address is not formatted correctly
+  - The `input` field is empty - The email address is not formatted correctly
 
 ### Screenshot
 
-![](./screenshot.png)
+(./images/screenshot.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ccd330.github.io/base-apparel/)
+- Live Site URL: [Link](https://ccd330.github.io/base-apparel/)
 
 ## My process
 
